@@ -1,0 +1,6 @@
+﻿  8_8.c
+c:\users\administrator\desktop\c\8_8\8_8\8_8.c(92): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\administrator\desktop\c\8_8\8_8\8_8.c(106): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  8_8.vcxproj -> C:\Users\Administrator\Desktop\c\8_8\Debug\8_8.exe
