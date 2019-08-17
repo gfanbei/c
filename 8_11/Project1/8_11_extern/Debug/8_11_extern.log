@@ -1,0 +1,4 @@
+﻿  8_11_extern.c
+c:\users\administrator\desktop\c\8_11\project1\8_11_extern\8_11_extern.c(71): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“char (*)[11]”
+c:\users\administrator\desktop\c\8_11\project1\8_11_extern\8_11_extern.c(72): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
+  8_11_extern.vcxproj -> C:\Users\Administrator\Desktop\c\8_11\Project1\Debug\8_11_extern.exe

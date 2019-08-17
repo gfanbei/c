@@ -1,0 +1,4 @@
+﻿  8_11.c
+c:\users\administrator\desktop\c\8_11\project1\project1\8_11.c(1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  c:\users\administrator\desktop\c\8_11\project1\project1\8_11.c: note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  Project1.vcxproj -> C:\Users\Administrator\Desktop\c\8_11\Project1\Debug\Project1.exe
