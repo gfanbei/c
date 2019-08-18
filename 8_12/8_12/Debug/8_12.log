@@ -1,0 +1,4 @@
+﻿  8_12_zzbc.c
+c:\users\administrator\desktop\c\8_12\8_12\8_12\8_12_zzbc.c(148): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+c:\users\administrator\desktop\c\8_12\8_12\8_12\8_12_zzbc.c(150): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+  8_12.vcxproj -> C:\Users\Administrator\Desktop\c\8_12\8_12\Debug\8_12.exe
