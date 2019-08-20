@@ -1,0 +1,4 @@
+﻿  8_13_sscanf.c
+c:\users\administrator\desktop\c\8_13\8_13_sscanf\8_13_sscanf\8_13_sscanf.c(95): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(2263): note: 参见“sscanf”的声明
+  8_13_sscanf.vcxproj -> C:\Users\Administrator\Desktop\c\8_13\8_13_sscanf\Debug\8_13_sscanf.exe
