@@ -1,0 +1,4 @@
+﻿  8_14_struct.c
+c:\users\administrator\desktop\c\8_14\8_14\8_14\8_14_struct.c(106): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+  8_14.vcxproj -> C:\Users\Administrator\Desktop\c\8_14\8_14\Debug\8_14.exe
