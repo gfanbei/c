@@ -1,0 +1,4 @@
+﻿  单向链表02.c
+c:\users\administrator\desktop\c\8_22\8_22\单向链表02.c\单向链表02.c(31): warning C4033: “Init_LinkList”必须返回值
+c:\users\administrator\desktop\c\8_22\8_22\单向链表02.c\单向链表02.c(37): warning C4715: “Init_LinkList”: 不是所有的控件路径都返回值
+  单向链表02.c.vcxproj -> C:\Users\Administrator\Desktop\c\8_22\8_22\Debug\单向链表02.c.exe
