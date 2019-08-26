@@ -1,0 +1,11 @@
+﻿  SeqStack.c
+c:\users\administrator\desktop\c\8_23\8_23\8_23\seqstack.c(9): warning C4013: “malloc”未定义；假设外部返回 int
+c:\users\administrator\desktop\c\8_23\8_23\8_23\seqstack.c(9): warning C4047: “初始化”:“SStack *”与“int”的间接级别不同
+c:\users\administrator\desktop\c\8_23\8_23\8_23\seqstack.c(25): warning C4098: “Push_SeqStack”:“void”函数返回值
+c:\users\administrator\desktop\c\8_23\8_23\8_23\seqstack.c(41): warning C4098: “Pop_SeqStack”:“void”函数返回值
+c:\users\administrator\desktop\c\8_23\8_23\8_23\seqstack.c(46): warning C4098: “Pop_SeqStack”:“void”函数返回值
+c:\users\administrator\desktop\c\8_23\8_23\8_23\seqstack.c(84): warning C4098: “Destory_SeqStack”:“void”函数返回值
+c:\users\administrator\desktop\c\8_23\8_23\8_23\seqstack.c(87): warning C4013: “free”未定义；假设外部返回 int
+  栈的顺序存储.c
+  正在生成代码...
+  8_23.vcxproj -> C:\Users\Administrator\Desktop\c\8_23\8_23\Debug\8_23.exe
