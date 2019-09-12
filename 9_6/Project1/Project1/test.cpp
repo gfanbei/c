@@ -1,0 +1,1 @@
+  extern const int a = 10;//c++中const默认是内部链接，如果要使用 在前边加上extern

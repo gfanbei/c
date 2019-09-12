@@ -1,0 +1,4 @@
+﻿D:\vs2017\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(Project1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  c++中const.cpp
+c:\users\administrator\desktop\c\33\project1\project1\c++中const.cpp(36): warning C4172: 返回局部变量或临时变量的地址: a
+  Project1.vcxproj -> C:\Users\Administrator\Desktop\c\33\Project1\Debug\c++中const是内部链接.exe

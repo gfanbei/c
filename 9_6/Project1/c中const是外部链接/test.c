@@ -1,0 +1,1 @@
+const  int a = 10; //c中const是外部链接
