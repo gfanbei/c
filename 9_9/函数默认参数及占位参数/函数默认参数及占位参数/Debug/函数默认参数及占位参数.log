@@ -1,0 +1,6 @@
+﻿  c语言中没有默认参数和占位参数.c
+  函数默认参数及占位参数.cpp
+c:\users\administrator\desktop\c\9_9\函数默认参数及占位参数\函数默认参数及占位参数\函数默认参数及占位参数.cpp(9): error C2572: “m_fun”: 重定义默认参数 : 参数 1
+  c:\users\administrator\desktop\c\9_9\函数默认参数及占位参数\函数默认参数及占位参数\函数默认参数及占位参数.cpp(8): note: 参见“m_fun”的声明
+c:\users\administrator\desktop\c\9_9\函数默认参数及占位参数\函数默认参数及占位参数\函数默认参数及占位参数.cpp(9): error C2572: “m_fun”: 重定义默认参数 : 参数 2
+  c:\users\administrator\desktop\c\9_9\函数默认参数及占位参数\函数默认参数及占位参数\函数默认参数及占位参数.cpp(8): note: 参见“m_fun”的声明
