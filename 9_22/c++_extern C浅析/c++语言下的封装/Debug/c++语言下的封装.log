@@ -1,0 +1,4 @@
+﻿  c++语言下的封装.cpp
+c:\users\administrator\desktop\c\9_22\c++_extern c浅析\c++语言下的封装\c++语言下的封装.cpp(31): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+  c++语言下的封装.vcxproj -> C:\Users\Administrator\Desktop\c\9_22\c++_extern C浅析\Debug\c++语言下的封装.exe
