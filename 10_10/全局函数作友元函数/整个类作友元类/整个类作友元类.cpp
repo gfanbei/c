@@ -1,0 +1,63 @@
+#include<iostream>
+#include<string>
+using namespace std;
+
+
+//类做友元类
+class Building;
+class goodgay
+{
+
+public:
+	    goodgay();//声明，类外实现 也可类内构造实现 写法不同而已
+		void visit();
+private:
+	Building*  building;
+
+};
+
+
+class  Building
+{
+	//让基友类 作为Building的好朋友
+	friend class goodgay;
+public:
+	Building();
+
+	string sittingroom;//客厅
+
+private:
+	string bedroom;//卧室
+
+};
+
+Building::Building() //构造实现
+{
+	this->bedroom = "卧室";
+	this->sittingroom = "客厅";
+}
+
+goodgay::goodgay()//构造实现
+{
+	 building = new Building; //创建房间  同时 building 对象初始化
+}
+
+void goodgay::visit()//构造实现  
+{
+	cout<<"好基友在访问 "<< this -> building -> sittingroom << endl;
+	cout << "好基友在访问 " << this->building-> bedroom << endl;
+}
+
+void test01()
+{
+	goodgay gg;
+	gg.visit();//调用visit访问房间
+
+}
+
+int main()
+{
+	test01();
+	system("pause");
+	return 0;
+}
