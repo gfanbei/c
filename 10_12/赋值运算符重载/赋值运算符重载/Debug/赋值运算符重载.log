@@ -1,0 +1,6 @@
+﻿  赋值运算符重载.cpp
+c:\users\administrator\desktop\c\10_12\赋值运算符重载\赋值运算符重载\赋值运算符重载.cpp(41): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\administrator\desktop\c\10_12\赋值运算符重载\赋值运算符重载\赋值运算符重载.cpp(56): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+  赋值运算符重载.vcxproj -> C:\Users\Administrator\Desktop\c\10_12\赋值运算符重载\Debug\赋值运算符重载.exe
